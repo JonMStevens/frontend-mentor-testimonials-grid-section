@@ -85,6 +85,7 @@ section:nth-of-type(5) {
   grid-template-rows: 1fr 1fr;
   align-items: center;
   margin-bottom: 1rem;
+  z-index: 100;
 }
 
 .credit > img {
@@ -148,7 +149,7 @@ blockquote {
 img[src='images/bg-pattern-quotation.svg'] {
   position: absolute;
   top: 0;
-  right: 6rem;
+  right: 10%;
   z-index: 0;
 }
 
