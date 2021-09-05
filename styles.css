@@ -18,6 +18,7 @@
 }
 body {
   display: flex;
+  flex-flow: col;
   justify-content: center;
   align-items: center;
 
@@ -40,7 +41,7 @@ section {
   grid-template-rows: auto 1fr;
   padding: 2rem;
 
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
 
   position: relative;
 }
@@ -149,12 +150,6 @@ img[src='images/bg-pattern-quotation.svg'] {
   top: 0;
   right: 6rem;
   z-index: 0;
-}
-
-.attribution {
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 /* break point for when screen size is too small for desktop layout
