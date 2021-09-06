@@ -66,8 +66,8 @@ Users should be able to:
 - [Elements of a Magazine Page](https://www.magazinedesigning.com/magazine-page-elements/) - A nice article that describes and shows different parts of an article and the corresponding printing term
 - [HTML for Subheadings and Headings](https://css-tricks.com/html-for-subheadings-and-headings/) - The resource I used to determine the semantic html to use for headings, subheadings, and pull quotes
 - [https://grid.malven.co/](https://grid.malven.co/) - A CSS grid cheat sheet
-
-- * [Size Matters: Balancing Line Length And Font Size In Responsive Web Design](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/) - Article on optimal line lengths and comfortable reading.
+- [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/) - Where I learned about adding quotes with CSS
+- [*Size Matters: Balancing Line Length And Font Size In Responsive Web Design](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/) - Article on optimal line lengths and comfortable reading.
 
 ## Author
 
