@@ -9,6 +9,7 @@
 
   font-size: 13px;
   font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 500;
 }
 
 * {
@@ -31,7 +32,7 @@ body {
 main {
   display: grid;
   grid-template-rows: 1fr 1fr;
-  grid-template-columns: 208px 272px 248px 240px;
+  grid-template-columns: 228px 272px 248px 240px;
   grid-gap: 26px;
   margin: 4rem 26px;
 }
@@ -113,13 +114,15 @@ section:nth-of-type(4) .credit > img {
 section:nth-of-type(5) .credit > img {
   border-color: white;
 }
-.credit > h2,
-.credit > h1 {
+.credit > h1,
+.credit > h2 {
   grid-row: 1;
   grid-column: 2;
 
   white-space: nowrap;
   font-size: 1rem;
+  font-weight: 600;
+
   opacity: 90%;
 }
 .credit > span {
@@ -137,6 +140,7 @@ blockquote {
 }
 .pull-quote {
   font-size: 1.5rem;
+  font-weight: 600;
   line-height: 2rem;
 }
 .quote-continued {
